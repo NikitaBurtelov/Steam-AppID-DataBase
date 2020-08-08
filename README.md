@@ -1,2 +1,2 @@
-Database of the complete list of publicly available Steam applications.
-Dumb database MySQL. 
+<p>Database of the complete list of publicly available Steam applications. </p>
+<p>Dumb database MySQL.</p>
